@@ -8,12 +8,12 @@
         <version>2.7.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.demo</groupId>
-    <artifactId>demo</artifactId>
+    <groupId>com.wechat</groupId>
+    <artifactId>wechat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>demo</name>
-    <description>demo</description>
+    <name>wechat</name>
+    <description>wechat</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
